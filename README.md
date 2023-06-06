@@ -10,3 +10,5 @@ Using exist account, password to login, logout automatically.
 - Thực hiện đăng xuất tài khoản trên nếu đăng nhập thành công.
 - Thực hiện chụp ảnh màn hình nếu đăng nhập thất bại và tiến hành xuất ra báo cáo.
 
+# https://www.youtube.com/watch?v=iqF08XWCuXA&list=PLEdd-A5YG-1Lpu3ZnDmbkdkT0HLvlshXb&index=7
+
